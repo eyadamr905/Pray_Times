@@ -1,6 +1,9 @@
 # pray_time
 
 A new Flutter project.
+using Prayer Times API
+Json connection
+u can see Pray time just by your country and city
 
 ## Getting Started
 
